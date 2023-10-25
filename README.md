@@ -1,5 +1,7 @@
 # Shein Website Data Scraping
 
+![shein](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RXLBDI72RJPVZE5OMX7JMA32BI.jpg)
+
 This project focuses on scraping product information and customer reviews from the Shein website. The gathered data can be used for analysis, insights, and enhancing the overall shopping experience.
 
 # Table of Contents
